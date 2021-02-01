@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 Here is the gif:
-![](https://i.imgur.com/g53SeZW.gif)
+<img src="https://i.imgur.com/g53SeZW.gif" width=250><br>
 
 ### Notes
 my poster image wsnt showing up in my app, I chenged "http" in the baseUrl to "https", then it worked.
