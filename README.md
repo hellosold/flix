@@ -39,7 +39,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIF
 
 Here is the gif:
-<img src="https://i.imgur.com/J3tGpjk.gif" width=250><br>
+<img src="https://i.imgur.com/1UxdTJh.gif" width=250><br>
 
 ### Notes
 my poster image wsnt showing up in my app, I chenged "http" in the baseUrl to "https", then it worked.
